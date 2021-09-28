@@ -1,0 +1,35 @@
+.start {
+	margin: 70px 360px;	
+}
+.bangla{
+width: 20px;
+height: 30px;
+background: black;
+border-radius: 50%;
+
+}
+.sobug {
+	width: 600px;
+	height: 300px;
+	background: green;
+	overflow: hidden;}
+.lal{
+width: 200px;
+height: 200px;
+background: red;
+border-radius: 50%;
+overflow: hidden;
+margin: 45px auto;
+}
+.lal img{
+width: 100px;
+height: 100px;
+overflow: hidden;
+margin: 50px auto;
+display: block;
+}
+.dash{
+width: 20px;
+height: 400px;
+background: black;
+}
